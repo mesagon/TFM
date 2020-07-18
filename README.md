@@ -11,6 +11,7 @@ partir de datos históricos y con alto nivel de precisión, de forma que dichos
 modelos sirvan a los ingenieros de energía responsables del edificio para
 caracterizar el funcionamiento base del mismo e identificar oportunidades
 de mejora.
+
 Específicamente, en este trabajo se ha aplicado conjunto de tareas de
 análisis y preprocesamiento a un conjunto de datos real que contiene valores
 históricos de consumo energético registrados a lo largo del año 2016 por los
@@ -20,6 +21,7 @@ de datos una serie de técnicas de aprendizaje automático y en especial
 de aprendizaje profundo que permitan predecir a partir de valores históricos
 de varios sensores el consumo futuro de energía destinada a los sistemas de
 calefacción del edificio.
+
 Como consecuencia de las tareas de análisis y preprocesamiento solo se
 ha podido trabajar con valores históricos de sensores de una zona piloto del
 edificio correspondientes a los meses de Enero, Febrero y Marzo de 2016, lo
